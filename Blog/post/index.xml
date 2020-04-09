@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Journal in Cloud // blog, notizie e aggiornamenti dalla piattaforma di telemedicina in Cloud</title>
+    <link>https://nipa-it.github.io/journalincloud/Blog/post/</link>
+    <description>Recent content in Posts on Journal in Cloud // blog, notizie e aggiornamenti dalla piattaforma di telemedicina in Cloud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nipa-it.github.io/journalincloud/Blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Il blog di Journal in Cloud si aggiorna</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/journal-in-cloud-nuovo-blog/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/journal-in-cloud-nuovo-blog/</guid>
+      <description>Journal in Cloud
+  Da tempo sentivo il bisogno di rimodernare il blog - il portale delle notizie della piattaforma: davvero troppo pesante rispetto alle notizie che doveva veicolare.
+Un nuovo inizio Per questo ho messo mano al codice, scrivendolo quasi tutto da zero, per offrire un&amp;rsquo;esperienza più chiara, una fruizione delle notizie più rapida in un layout più minimale e - perchè no - anche una maggiore quantità di notizie ed informazioni sul mondo della telemedicina e della tecnologia medica, oltrechè articoli e consigli interessanti per coloro i quali hanno a cuore non solo la propria salute ma anche tutto il mondo che ci sta intorno.</description>
+    </item>
+    
+    <item>
+      <title>Diario Pressorio: aggiornamento v2.0.9</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-aggiornamento-2-0-9/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-aggiornamento-2-0-9/</guid>
+      <description>Diario Pressorio nel Cloud
+  Aggiornamento minore per Diario Pressorio ma estremamente importante visto che lo rende compatibile con le ultime versioni di Android e gli ultimi telefoni usciti in commercio negli ultimi mesi.
+Novità introdotte:
+ Aggiornamento delle librerie interne all&amp;rsquo;ultima versione Bug fix minori in numero di 3 Piccole correzioni estetiche grafiche  Se non l&amp;rsquo;hai ancora fatto, provala e facci sapere cosa ne pensi, è gratuita!</description>
+    </item>
+    
+    <item>
+      <title>Diario Pressorio: aggiornamento v2.0.8</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-aggiornamento-2-0-8/</link>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-aggiornamento-2-0-8/</guid>
+      <description>Diario Pressorio nel Cloud
+  Aggiornamento minore per Diario Pressorio importante per le novità introdotte e per i bug fix.
+Novità introdotte:
+ Funzione di Cancellazione Account direttamente interna all’app Bug fix minori in numero di 3 Piccole modifiche estetiche grafiche Introduzione della traduzione tedesca Inserita sezione dedicata all‘interfaccia Web di accesso ai dati Interfaccia Web migliorata con l’inserimento di una guida online che spiega funzione per funzione Ultimi articoli del Blog direttamente dall’app dal menù Extras per accedere facilmente ai suoi contenuti Iniziano i lavori di programmazione per l’introduzione dell’AI nell’app, ci saranno prestissimo novità.</description>
+    </item>
+    
+    <item>
+      <title>Il supporto non si è fermato: presto importanti novità</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/supporto-non-si-ferma-presto-novita/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/supporto-non-si-ferma-presto-novita/</guid>
+      <description>Journal in Cloud
+  L’ultimo aggiornamento per Diario Pressorio nel Cloud è stato quello di Dicembre 2018 che lo portava alla versione 2.0.4.
+Versione 2.0.6 in rilascio Da Dicembre ad oggi lo sviluppo non si è fermato e non è nemmeno rallentato. Ad un anno di distanza dal rilascio della versione 1.0 Diario Pressorio nel Cloud ha raggiunto un buon livello di funzionalità e di qualità del servizio offerto, con tantissimi utenti da tutto il mondo che giornalmente decidono di usarlo e – in un certo modo – anche curarsi.</description>
+    </item>
+    
+    <item>
+      <title>Diario Pressorio: aggiornamento v2.0.4</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-aggiornamento-2-0-4/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-aggiornamento-2-0-4/</guid>
+      <description>Diario Pressorio nel Cloud
+  Aggiornamento che porta con se interessanti novità per Diario Pressorio.
+Novità introdotte:
+ Numerosi bug fix sia di sicurezza sia grafici per la UI Inserito indicatore per la tachicardia Pressione differenziale tra i bracci espressa in mmHg.  Se non l’hai ancora fatto, provala e facci sapere cosa ne pensi, è gratuita!</description>
+    </item>
+    
+    <item>
+      <title>Diario Pressorio si aggiorna alla versione v2.0</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-aggiornamento-2-0/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-aggiornamento-2-0/</guid>
+      <description>Diario Pressorio nel Cloud
+  Importanti novità per Diario Pressorio (app online che ricordiamo assolve il compito di diario della pressione) che vede l’introduzione di numerose nuove feature tutte da usare sia sul versante dell’usabilità sia per la comodità dell’utente.
+Da Diario a Diario+ Troviamo come iniziale modifica la trasformazione della sezione Diario ( ) da semplice elenco delle misurazioni a vero e proprio Log dell’utente, per tenere traccia di modifiche sia al profilo sia alla terapia.</description>
+    </item>
+    
+    <item>
+      <title>Journal in Cloud allunga la vita: lo dice la scienza</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/journal-in-cloud-allunga-la-vita-lo-dice-la-scienza/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/journal-in-cloud-allunga-la-vita-lo-dice-la-scienza/</guid>
+      <description>Journal in Cloud
+  Prendiamo spunto per questo testo da un articolo comparso ad inizio del mese scorso in varie testate giornalistiche nazionali: La telemedicina può allungare la vita? Uno studio sostiene di si e cerchiamo di capire come un’app Android (nel caso specifico, Diario Pressorio) possa aiutarci più di quanto pensiamo.
+Facciamo un passo indietro: che vi sia una importante correlazione tra malattia cardiaca (di cui si parla nell’articolo) e valori alti di pressione (leggi: ipertensione) non è una novità: sia che la diagnosi sia già stata fatta – e dunque è necessario un attento monitoraggio per evitare la progressione della malattia (prevenzione terziaria) – sia che si soffra di costanti valori di pressione ma ancora in buona salute (prevenzione primaria) – andando così a prevenire eventuale futura malattia – Journal in Cloud assiste l’utente nel processo.</description>
+    </item>
+    
+    <item>
+      <title>Diario Pressorio nel Cloud scala le classifiche!</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-scala-le-classifiche/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-scala-le-classifiche/</guid>
+      <description>Siamo orgogliosi dei risultati che sta ottenendo l’app Diario per registrare ogni misurazione della pressione del sangue nel Google Play!
+Qualche giorno fa infatti l’app si è classificata in 4° posizione nelle app più “di moda” della sezione riservata alle applicazioni Sanitarie/Mediche.
+Ricordiamo che il Diario permette non solo di registrare i valori pressori ma anche di tenerne traccia e rappresentarli sotto forma di grafici e statistiche.
+          Non aspettare ulteriormente, misura anche tu la pressione del sangue arterioso giornalmente o – ancor meglio – più volte al giorno ed usa Diario Pressorio nel Cloud!</description>
+    </item>
+    
+    <item>
+      <title>Diario del Peso: aggiornamento v1.0.4</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/weight-journal-aggiornamento-1-0-4/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/weight-journal-aggiornamento-1-0-4/</guid>
+      <description>Diario del Peso nel Cloud
+  Diario del Peso si aggiorna con piccole modifiche sotto il cofano.
+Novità introdotte:
+ Piccole migliorie grafiche e della palette colori 2 bug corretti Inserito nella sezione Social il link al Blog ufficiale (questo) con novità sugli aggiornamenti e tanto altro Inserita funzione di Contatto Rapido dalla sezione Extras attraverso cui ci si può mettere velocemente in contatto con lo Staff.  Se non l’hai ancora fatto installala, provala e scrivici tramite la nuova funzione: l’app è gratuita!</description>
+    </item>
+    
+    <item>
+      <title>Diario Pressorio: aggiornamento v1.7.2</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-aggiornamento-1-7-2/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-aggiornamento-1-7-2/</guid>
+      <description>Diario Pressorio nel Cloud
+  Importante aggiornamento a distanza di circa un mese per Diario Pressorio.
+Novità introdotte:
+ Modificata la grafica per le misurazioni successive alla prima nella versione di grafica Dettagliata Piccole migliorie grafiche e della palette colori 13 bug corretti, sicurezza e stabilità migliorata Inserito nella sezione Social il link al Blog ufficiale (questo) con novità sugli aggiornamenti e tanto altro Inserita funzione di Contatto Rapido dalla sezione Extras attraverso cui – in caso di problemi, suggerimenti sull’app – ci si può mettere velocemente in contatto con lo Staff che risponderà il prima possibile.</description>
+    </item>
+    
+    <item>
+      <title>Diario Pressorio: aggiornamento v1.7.1</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-aggiornamento-1-7-1/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-aggiornamento-1-7-1/</guid>
+      <description>Diario Pressorio nel Cloud
+  Aggiornamento versione 1.7.1 per Diario Pressorio nel Cloud.
+Novità introdotte:
+ UI migliorata Procedura di Registrazione migliorata e resa più chiara Stabilità migliorata Lo sviluppo procede con piccole modifiche volte a migliorare la stabilità generale, la sicurezza e la fluidità piuttosto che aggiungere nuove features.  A tal proposito, si valutano eventuali richieste degli utenti.
+Diario Pressorio nel Cloud è l’app della community!</description>
+    </item>
+    
+    <item>
+      <title>Diario Pressorio nel Cloud: video promo [2]</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-video-promo-2/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-video-promo-2/</guid>
+      <description>Secondo video promozionale per l’app Diario Pressorio nel Cloud che sta riscuotendo un discreto successo! Gustatevelo tutto.
+   Promo video
+PS: ben atterrati a Cagliari.
+Per provarla gratuitamente, fare click sul bannerino qui sotto.</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è Diario del Peso nel Cloud?</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/weight-journal-cosa-e/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/weight-journal-cosa-e/</guid>
+      <description>Seconda app che si aggiunge all’ecosistema di Journal in Cloud.
+ Diario Pressorio nel Cloud
+  Questa volta, invece che i valori pressori, sarà possibile inserire due tipi di dati:
+ Peso corporeo (con relativa differenza rispetto alla precedente misurazione) Tre distinte circonferenze: braccio, addome e coscia  E, per le varie misure, traccerà l’andamento su un grafico per avere piena idea dell’andamento delle misurazioni.
+     Sezione dei Grafici</description>
+    </item>
+    
+    <item>
+      <title>Diario Pressorio nel Cloud: video promo [1]</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-video-promo-1/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-video-promo-1/</guid>
+      <description>Lasciatevi trasporare dalla musica di sottofondo ed esplorate le potenzialità dell’app
+   Promo video
+Per provarla gratuitamente, fare click sul bannerino qui sotto.</description>
+    </item>
+    
+    <item>
+      <title>Cos&#39;è Diario Pressorio nel Cloud?</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-cosa-e/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-cosa-e/</guid>
+      <description>Prima app a far parte dell’ecosistema Journal in Cloud.
+Diario Pressorio nel Cloud funziona da diario pressorio e tramite le funzionalità online rende il diario disponibile online sul computer del tuo dottore di fiducia, insieme a statistiche, grafici e parametri clinici con un semplice click.
+ Diario Pressorio nel Cloud
+  Pressure Journal in Cloud Semplice, intuitiva, leggera, sicura.
+Con pochi click (esattamente 5) è possibile inserire l’ultima misurazione pressoria.</description>
+    </item>
+    
+  </channel>
+</rss>

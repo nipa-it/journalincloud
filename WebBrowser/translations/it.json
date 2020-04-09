@@ -1,0 +1,49 @@
+{
+    "nome_app" : "Interfaccia Web",
+    "icona_app_alt_wj" : "Diario del Peso nel Cloud",
+    "icona_app_alt_pj" : "Diario Pressorio nel Cloud",
+    "icona_app_alt_wi" : "Interfaccia web",
+    
+    "descr_page" : "Diario Pressorio nel Cloud è il tuo diario pressorio personale contro l'ipertensione",
+    "keywords" : "diario, pressorio, diario pressorio, logger, ictus, infarto, pressione alta, app, android, pressione, alta, ipertensione, grassi, colesterolo, morire, rischio, cardiovascolare, cloud, online, dottore, medico, controllo, registro, registrare, monitorare, salvare, journal, ipotensione, iperteso, sale, liquidi, demenza, cardiologo, cuore, notifica, notifiche, linea diretta, gratis, free, amazon app store, google play, no pagare, inglese, italiano, cinese, pressione alta, cosa fare, monitor, vivere, vivere bene, vivere a lungo, salute, dieta, povera di sali, pressione sanguigna, combattere pressione alta, combattere ipertensione, controllare la pressione, monitor pressione alta, misurare",
+    "promo_phrase" : "Il tuo diario pressorio personale",
+
+    "sez1" : "Accesso",
+    "sez1_title" : "Accesso semplice",
+    "sez1_body1" : "Non stressarti a digitare username o password. Vai direttamente su <b>diario.cloud</b> dal tuo browser, inquadra il codice QR mostrato con l'apposita funzione presente nell'app dalla sezione Cloud ed inizia subito a navigare nella tua area personale.",
+    "sez1_body2" : "",
+    
+    "sez2" : "Guida",
+    "sez2_title" : "Interfaccia guidata",
+    "sez2_body1" : "E' difficile perdersi tra i menù e le funzioni dell'interfaccia web. Ma - in caso avessi paura possa capitare - leggi le poche righe illustrative ad inizio sessione per rendere la tua navigazione più serena.",
+    "sez2_body2" : "",
+    
+    "sez3" : "Grafici",
+    "sez3_title" : "Grafici illustrati",
+    "sez3_body1" : "Molti grafici potrebbero sembrare di difficile interpretazione. In caso, apri il menù a tendina esattamente sotto ogni grafico e leggi una mini-guida utile alla sua interpretazione, i dati che include ed il loro eventuale significato.",
+    "sez3_body2" : "",
+    
+    "sez4" : "Statistiche",
+    "sez4_title" : "Statistiche avanzate",
+    "sez4_body1" : "Insieme ai grafici si trovano alcune interessanti statistiche che mettono in evidenza dati apparentemente privi di significato che potrebbero celare informazioni non visibili ad un primo sguardo.",
+    "sez4_body2" : "",
+    
+    "sez5" : "Colori",
+    "sez5_title" : "Grafici colorati",
+    "sez5_body1" : "Grafici a torta dai colori vivaci e divertenti faranno si che ad un primo sguardo possa renderti conto delle informazioni più importanti, in modo divertente e leggero.",
+    "sez5_body2" : "",
+    
+    "sez6" : "Dividi i giorni",
+    "sez6_title" : "Dividi le tue giornate",
+    "sez6_body1" : "Leggi i dati per parti della giornata, perchè ogni parte di essa merita la giusta attenzione.",
+    "sez6_body2" : "",
+    
+    "sez7" : "Esplora",
+    "sez7_title" : "Esplora l'Interfaccia",
+    "sez7_body1" : "Digita sul tuo braswer <a href='http://diario.cloud'>http://diario.cloud</a> ed inizia l'esperienza.",
+    "sez7_body2" : "",
+    
+    "copyright" : "Ideata e scritta da nPSoftware. <br/>Prima dell'uso - è necessario accettare i <a href='https://npsite.altervista.org/inCloudSystem/Web/License.php'>Termini e Condizioni d'Uso</a>",
+    "video" : "Promo",
+    "download_icon_header" : "Provala ora."
+}

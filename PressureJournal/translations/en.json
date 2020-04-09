@@ -1,0 +1,27 @@
+{
+    "nome_app" : "Pressure Journal in Cloud" ,
+    
+    "promo_phrase" : "Your personal blood pressure diary" ,
+    "minimal" : "Minimal",
+    "essential" : "Essential",
+    "clear" : "Clear" ,
+    "clear_body1" : "If you are a number lover, you will find yourself at home.<br/>If you are not, surf among <b>nice and colorful charts and graphics</b>, discover a new side.<br/>A <b class='bgreen'>green</b> side." ,
+    "clear_body2" : "Make your health <b class='bgreen'>green</b>, make it today." ,
+    "simple" : "Simple" ,
+    "simple_body1" : "<b>Enjoy</b> the simplicity and the speed of the new circular interface. You need two taps and your pressure is ready to be logged." ,
+    "simple_body2" : "<b>Want more?</b><br/>Add your pulse and some note, to make you log even more precise.<br/><b>More?</b><br/>Well...that's impossible indeed." ,
+    "download" : "Download" ,
+    "download_body" : "Still in doubt? <b>Give it a try.</b></p><p>It is and always will be <b>free</b>.<br/><br/>" ,
+    "minimal_title" : "Minimal interface" ,
+    "minimal_body1" : "Create your personal diary for your blood pressure: it has never been so easy and fast.</p><p>Find out whether it is <i>high</i>, <i>acceptable</i> or <i>normal</i> in a single-sight." ,
+    "minimal_body2" : "Welcome to a <b>new experience</b>." ,
+    "essential_title" : "Essential" ,
+    "essential_body1" : "The <b>clear and essential interface</b> makes a straordinary user experience. <br/>Stop surfing among bunches of useless and heavy functions that you will never use.<br/>Start using <b>less but powerful</b> features, tailored on your needs." ,
+    "clear_title" : "Clear" ,
+    "download_title" : "Download it now" ,
+    "online" : "Cloud" ,
+    "online_body1" : "<b>From today</b> you will not need to show your pressure journals to your doctor anymore.<br/>Share with him or her your temporary codes and let your doctor get <b>access to your logs, risk statistics, graphics</b> and many other clinical information will make you more healthy and aware." ,
+    "copyright" : "A production by nPSoftware. <br/>Before using it - you need to read and accept the <a href='https://npsite.altervista.org/inCloudSystem/Web/License.php'>Terms and Conditions</a>" ,
+    "video" : "Promo" ,
+    "download_icon_header" : "Try it."
+}

@@ -1,0 +1,28 @@
+{
+    "nome_app" : "Diario Pressorio nel Cloud" ,
+    
+    "promo_phrase" : "Il tuo diario pressorio personale" ,
+    "minimal" : "Minimale" ,
+    "essential" : "Essenziale" ,
+    "clear" : "Chiaro" ,
+    "clear_body1" : "Se sei un'amante dei numeri ti troverai a casa tua.<br/>Se non lo sei, naviga tra <b>gli spettacolari e colorati grafici</b>, scopri un nuovo lato.<br/>Un lato <b class='bgreen'>verde</b>." ,
+    "clear_body2" : "Rendi la tua salute <b class='bgreen'>verde</b>. Inizia da oggi." ,
+    "simple" : "Semplice" ,
+    "simple_body1" : "<b>Godi</b> della semplicità de della velocità della nuova interfaccia circolare di inserimento. Hai bisogno solo di due tap." ,
+    "simple_body2" : "<b>Vuoi di più?</b><br/>Aggiungi i battiti e le note, rendi ogni misurazione più precisa e dettagliata.<br/><b>Ancora di più?</b><br/>Be'...allora credo sia impossibile." ,
+    "download" : "Download" ,
+    "download_body" : "Hai ancora dubbi?<br/><b>Provala.</b><br/>E' e sarà sempre <b>gratis</b>.<br/><br/><i>Disponibile in Italiano e Sardo.</i>" ,
+    "minimal_title" : "Interfaccia minimale" ,
+    "minimal_body1" : "Crea il tuo diario pressorio facilmente e con pochi click.<br/>Gestirlo non è mai stato così semplice</p><p>Capisci a colpo d'occhio se i valori rilevati sono <i>alti</i>, <i>accettabili</i> o <i>normali</i>." ,
+    "minimal_body2" : "Benvenuto in una <b>nuova esperienza</b>." ,
+    "essential_title" : "Essenziale" ,
+    "essential_body1" : "L' interfaccia <b>chiara ed essentiale</b> ti farà apprezzare ancor di più la piacevolezza di usare l'app.<br/>Basta navigare tra centinaia di inutili e complesse funzioni che non userai mai.<br/>Inizia ad usare <b>potenti funzioni</b>, ritagliate suoi tuoi bisogni." ,
+    "clear_title" : "Chiara" ,
+    "download_title" : "Scaricala ora." ,
+    "online" : "Cloud" ,
+    "online_body1" : "<b>Da oggi</b> non avrai più bisogno di mostrare al tuo medico diari cartacei o misurazioni su pezzi di carta.<br/>Condividi con lui i codici di accesso temporaneo e garantiscigli <b>l'accesso alle tue misurazioni, statistiche sul rischio, grafici e diagrammi</b> - e moltissime altre informazioni cliniche ti renderanno più sano e cosciente." ,
+    "copyright" : "Ideata e scritta da nPSoftware. <br/>Prima dell'uso - è necessario accettare i <a href='https://npsite.altervista.org/inCloudSystem/Web/License.php'>Termini e Condizioni d'Uso</a>" ,
+    "video" : "Promo" ,
+    "download_icon_header" : "Provala ora."
+}
+

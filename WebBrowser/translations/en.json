@@ -1,0 +1,46 @@
+{
+    "nome_app" : "Web Interface",
+    
+    "descr_page" : "Pressure Journal in Cloud is your personal blood pressure diary",
+    "keywords" : "diary, pressure, hypertension, high pressure, doctor, medicine, direct line, android app, grass, lipids, cholesterol, die, risk, cardiovascular, heart attack, stroke, register, logger, to register, talk to doctor, downlod app, free, online, cloud, minimal, essential, charts, statistics pressure, pocket, salt, water content, dementia, cardiology, cardio, cardiologist, notify, health, life, longer, lifestyle, live well, high blood pressure, combat high blood pressure, how to combat high blood pressure, severe high blood pressure, control high blood pressure, manage high blood pressure, high blood pressure monitor",
+    "promo_phrase" : "Surf your cloud-based data via Browser",
+    
+    "sez1" : "Access",
+    "sez1_title" : "Easy access",
+    "sez1_body1" : "Don't bother to type hard password or hard codes. Open at <b>diario.cloud</b>, scan the QR Code, and dive into your personal area.",
+    "sez1_body2" : "",
+    
+    "sez2" : "Guide",
+    "sez2_title" : "Guided interface",
+    "sez2_body1" : "It's hard to get lost into the interface menù. But if you are worried about that, just read a couple of lines before to start",
+    "sez2_body2" : "",
+    
+    "sez3" : "Charts",
+    "sez3_title" : "Commented charts",
+    "sez3_body1" : "Many charts could look tricky to read or to interprest. If they look so, just open the comment right below each chart and read what it means and rapresents.",
+    "sez3_body2" : "",
+    
+    "sez4" : "Statistics",
+    "sez4_title" : "Deep statistics",
+    "sez4_body1" : "Along with the charts, some interesting statistic come. They can give you hide sights, show yuu something you (still) didn't realize.",
+    "sez4_body2" : "",
+    
+    "sez5" : "Color",
+    "sez5_title" : "Colorful Charts",
+    "sez5_body1" : "Colorful piecharts to make charts more clear, nice to be seen and funny.",
+    "sez5_body2" : "",
+    
+    "sez6" : "Split your day",
+    "sez6_title" : "Split your day",
+    "sez6_body1" : "Analyze your pressure per part of the day, because each part of it is unique and needs particular attention.",
+    "sez6_body2" : "",
+    
+    "sez7" : "Explore",
+    "sez7_title" : "Explore the Interface",
+    "sez7_body1" : "Just head your browser to <a href='http://diario.cloud'>http://diario.cloud</a>.",
+    "sez7_body2" : "",
+    
+    "copyright" : "A production by nPSoftware. <br/>Before using it - you need to read and accept the <a href='https://npsite.altervista.org/inCloudSystem/Web/License.php'>Terms and Conditions</a>",
+    "video" : "Promo",
+    "download_icon_header" : "Try it."
+}

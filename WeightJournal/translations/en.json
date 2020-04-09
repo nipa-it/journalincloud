@@ -1,0 +1,33 @@
+{
+    "nome_app" : "Weight Journal in Cloud" ,
+    
+    "promo_phrase" : "Your personal weight and circumferences diary" ,
+
+    "title_1" : "Essential",
+    "1" : "Essential",
+    "1_1" : "All the info you need in one screen.</p><p>Find out whether you like <i>your weight loss trend</i>, the <i>new diet is working</i> or <i>not</i> in a single-sight.",
+
+    "title_2" : "Minimal",
+    "2" : "Minimal interface",
+    "2_1" : "The <b>clear interface</b> makes a straordinary user experience. <br/>Lots of information in a single screen, to <b>manage your circumferences</b> and being ready for the incoming summer or anything you would like.",
+    
+    "title_3" : "Cloud",
+    "3" : "Cloud system",
+    "3_1" : "<b>From today</b> you will not need to show your journals to your dietist or personal trainer anymore.<br/>Share with him or her your temporary codes and let her or him get <b>access to your logs, graphics</b> and many other information will make you more healthy and aware." ,
+    
+    "title_4" : "Simple...",
+    "4" : "Simple interface" ,
+    "4_1" : "<b>Enjoy</b> the simplicity and the speed of simple interface. You need to enter your weight, two taps and your new weight loss is ready to be logged.",
+    
+    "title_5" : "...and more" ,
+    "5" : "Even simpler" ,
+    "5_1" : "<b>Want more?</b><br/>Add your circumference and some note, to make you log even more precise.<br/><b>More?</b><br/>Well...that's impossible indeed.",
+    
+    "title_6" : "Download",
+    "6" : "Download it" ,
+    "6_1" : "Still in doubt? <b>Give it a try.</b></p><p>It is and always will be <b>free</b>.<br/><br/>",
+    "6_2" : "Download it now" ,
+    "6_3" : "Try it." ,
+    
+    "copyright" : "A production by nPSoftware. <br/>Before using it - you need to read and accept the <a href='https://npsite.altervista.org/inCloudSystem/Web/License.php'>Terms and Conditions</a>"
+}
