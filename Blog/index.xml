@@ -6,10 +6,34 @@
     <description>Recent content on Journal in Cloud // blog, notizie e aggiornamenti dalla piattaforma di telemedicina in Cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://nipa-it.github.io/journalincloud/Blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quarantena: alcuni consigli</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-quarantena-alcuni-consigli/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-quarantena-alcuni-consigli/</guid>
+      <description>Journal in Cloud
+  Dall&amp;rsquo;8 marzo, giorno dell&amp;rsquo;ormai noto lockdown, abbiamo ormai ampiamente superato il mese. La nostra routine è stata completamente stravolta e ci siamo dovuti costruire velocemente una nuova vita.
+Nuova vita che potrebbe essere cambiata in peggio, soprattutto per quel che riguarda le abitudini di vita e l&amp;rsquo;alimentazione.
+Abitudini di vita Come consiglia anche Diario Pressorio nella sezione &amp;ldquo;Consigli e Suggerimenti&amp;rdquo; - sarebbe importante camminare (o, comunque, praticare attività aerobica) almeno mezz&amp;rsquo;ora a giorni alterni per mantenere i livelli della pressione più bassi.</description>
+    </item>
+    
+    <item>
+      <title>Diario Pressorio: aggiornamento v2.1.0</title>
+      <link>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-aggiornamento-2-1-0/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nipa-it.github.io/journalincloud/Blog/post/pressure-journal-aggiornamento-2-1-0/</guid>
+      <description>Diario Pressorio nel Cloud
+  Aggiornamento minore per Diario Pressorio volto esclusivamente a permettere la continuità del funzionamento della sezione Blog in Extras in seguito al cambio di hosting del blog - che continua comunque ad essere accessibile al solito indirizzo journ.cloud.
+Novità introdotte:
+ Aggiornamento della sezione dei post del blog in Extras che ora punta al nuovo hosting Bug fix minori in numero di 2  Se non l&amp;rsquo;hai ancora fatto, provala e facci sapere cosa ne pensi, è gratuita!</description>
+    </item>
     
     <item>
       <title>Il blog di Journal in Cloud si aggiorna</title>
