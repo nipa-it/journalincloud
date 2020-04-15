@@ -35,6 +35,7 @@ divider-vert[data-content]::after, .divider[data-content]::after { background: #
     overflow: hidden;
 }
 thead, tr { border: solid 0px !important; }
+a.tile:hover { background-color: #00A0E009; }
  
 
 /* Pulsante navigazione pagine dei post */
