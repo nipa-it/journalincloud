@@ -1,7 +1,14 @@
 <html>
     <head>
         <title>Journal in Cloud // Term of Service</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
+        <script type="text/javascript">
+        $(function(){
+            $('#license').attr('src', 'https://npsite.altervista.org/inCloudSystem/Web/License.php?' + window.location.search.substr(1));
+                    });
+   
+        </script>
         <style type="text/css">
             html, body {
             border: 0px;
@@ -11,7 +18,7 @@
         </style>
     </head>
     <body>
-        <iframe id="license" src="https://npsite.altervista.org/inCloudSystem/Web/License.php" style="width: 100%; height: 100%; margin: 0px; border: 0px;">
+        <iframe id="license" style="width: 100%; height: 100%; margin: 0px; border: 0px;">
         </iframe>
     </body>
 </html>
